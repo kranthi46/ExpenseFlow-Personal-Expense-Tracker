@@ -1,0 +1,64 @@
+[ {
+  "id" : 2,
+  "userId" : null,
+  "title" : "Salary",
+  "amount" : 9677.0,
+  "type" : "INCOME",
+  "category" : "SALARY",
+  "date" : "2026-11-01",
+  "description" : "From APTOnline Limited Company"
+}, {
+  "id" : 3,
+  "userId" : null,
+  "title" : "Briyani",
+  "amount" : 500.0,
+  "type" : "EXPENSE",
+  "category" : "FOOD",
+  "date" : "2026-11-03",
+  "description" : "Paradise"
+}, {
+  "id" : 4,
+  "userId" : 1,
+  "title" : "Salary",
+  "amount" : 9677.0,
+  "type" : "INCOME",
+  "category" : "SALARY",
+  "date" : "2026-11-04",
+  "description" : "APTOnline Limited"
+}, {
+  "id" : 5,
+  "userId" : 1,
+  "title" : "Biryani",
+  "amount" : 300.0,
+  "type" : "EXPENSE",
+  "category" : "FOOD",
+  "date" : "2026-11-04",
+  "description" : "Pista House"
+}, {
+  "id" : 6,
+  "userId" : 2,
+  "title" : "Salary",
+  "amount" : 100000.0,
+  "type" : "INCOME",
+  "category" : "SALARY",
+  "date" : "2026-11-04",
+  "description" : "Google"
+}, {
+  "id" : 7,
+  "userId" : 2,
+  "title" : "Room Rent",
+  "amount" : 11000.0,
+  "type" : "EXPENSE",
+  "category" : "OTHER",
+  "date" : "2026-11-04",
+  "description" : "PG Rent"
+}, {
+  "id" : 8,
+  "userId" : 1,
+  "title" : "Petrol",
+  "amount" : 121.0,
+  "type" : "EXPENSE",
+  "category" : "TRAVEL",
+  "date" : "2026-11-11",
+  "description" : "Bike Petrol"
+} ]
